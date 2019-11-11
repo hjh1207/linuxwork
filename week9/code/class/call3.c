@@ -1,4 +1,7 @@
-#include"my.h"
+#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+#include<sys/types.h>
 int main()
 {
 char *arg[]={"./test3","123","abc","hello","ncu","edu",NULL};
